@@ -15,6 +15,7 @@ Compatible for 1.21.11
 * Run the installer once it downloads
 * Follow the install process
 
+### [Fabric Installer](https://fabricmc.net/use/installer/)
 
 # Find the resources with the links below:
 
